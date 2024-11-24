@@ -460,12 +460,14 @@ body.wcspc-body-show .wcspc-overlay {
 }
 .wcspc-area-top.wcspc-items .wcspc-item-qty .wcspc-item-qty-inner {
 	position: relative;
+	padding-right: 10px;
 }
 .wcspc-area-top.wcspc-items .wcspc-item-qty .wcspc-item-qty-inner input {
 	width: 40px;
 	height: 28px;
 	line-height: 28px;
-	padding: 0;
+	min-height: 28px;
+	padding: 0!important;
 	text-align: center;
 	border: none;
 	outline: none;
@@ -474,7 +476,8 @@ body.wcspc-body-show .wcspc-overlay {
 	background-color: #eeeeee;
 	-moz-appearance: textfield;
 	font-size: 12px;
-	font-weight: 400; 
+	font-weight: 400;
+	margin:2px 0px!important;
 }
 
 
@@ -493,7 +496,7 @@ body.wcspc-body-show .wcspc-overlay {
 	background-color: #eeeeee;
 	font-size: 12px;
 	font-weight: 400;
-	position: absolute;
+	
 	display: block;
 	cursor: pointer;
 }

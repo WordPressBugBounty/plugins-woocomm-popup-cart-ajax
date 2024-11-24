@@ -57,6 +57,9 @@ Yes, it will work with any theme, but may require some styling to make it match 
 
 
 == Changelog ==
+= 1.5.4
+* Fixed plus and minus css issue 
+
 = 1.5.3
 * Side box css fixed
 
