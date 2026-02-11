@@ -1,14 +1,14 @@
 <?php
 /*
-Plugin Name: WooCommerce Modal Fly Cart + Ajax Add to cart 
-Plugin URI: https://athemeart.net/downloads/woocommerce-popup-cart-ajax/
+Plugin Name: Modal Fly Cart & AJAX Add to Cart for WooCommerce  
+Plugin URI: https://athemeart.com/downloads/woocommerce-popup-cart-ajax/
 Description: WooCommerce Modal Fly Cart + Ajax add to cart.
 Version: 1.5.7
 Author: aThemeArt
 Author URI: http://athemeart.net
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
-Tested up to: 6.8.1
+Tested up to: 6.8.2
 Requires PHP: 7.4
 WC requires at least: 4.6
 WC tested up to: 10.6.0

@@ -1,9 +1,9 @@
-﻿=== WooCommerce Modal Fly Cart + Ajax add to cart ===
+﻿=== Modal Fly Cart & AJAX Add to Cart for WooCommerce ===
 Contributors: aThemeArt
-Tags: popup cart, woocommerce, woocommerce cart, woocommerce litebox,litebox cart, shopping cart,ecommerce popup, popups, custom popup, woocommerce popup, pop-up
+Tags: popup cart, ajax add to cart, woocommerce add to cart, floating cart, mini cart
 Requires at least: 5.0
-Tested up to: 6.2.2
-Stable tag: 1.1.1
+Tested up to: 6.9.0
+Stable tag: 1.5.7
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 

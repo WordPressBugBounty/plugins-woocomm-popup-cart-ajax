@@ -241,5 +241,5 @@ msgid "aThemeArt"
 msgstr "aThemeArt"
 
 #. Plugin URI of the plugin
-msgid "https://athemeart.net/downloads/woocommerce-popup-cart-ajax/"
-msgstr "https://athemeart.net/downloads/woocommerce-popup-cart-ajax/"
+msgid "https://athemeart.com/downloads/woocommerce-popup-cart-ajax/"
+msgstr "https://athemeart.com/downloads/woocommerce-popup-cart-ajax/"
